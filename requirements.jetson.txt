@@ -1,0 +1,6 @@
+fastapi==0.75.0
+uvicorn==0.18
+opencv-python==4.5.1.48
+numpy==1.19.5
+python-doenv== 1.0
+pydantic==1.7.4

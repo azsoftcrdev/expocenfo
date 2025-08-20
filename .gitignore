@@ -1,0 +1,25 @@
+# Python / build
+__pycache__/
+*.pyc
+.env
+config/.env
+env/
+.venv/
+dist/
+build/
+
+# IA modelos / data grandes
+*.pt
+*.onnx
+*.tflite
+*.engine
+*.bin
+*.weights
+datasets/
+data/
+runs/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
